@@ -1,8 +1,11 @@
 Orion Inclusion Cooperative Whitepaper
+
 Introduction
+
 Orion Inclusion Cooperative is a Web3-based initiative aimed at creating an inclusive cooperative that prioritizes diversity and accessibility. By leveraging blockchain technology and the principles of decentralization, we aim to provide a platform that allows members to actively participate in decision-making, share profits, and collaborate on joint projects.
 
 Vision and Mission
+
 Vision: To realize a fair and transparent cooperative where every member has a voice and can contribute to the collective development of the community.
 
 Mission: To use Web3 technology to support economic and social inclusion by providing tools and platforms that enable members to collaborate, share resources, and effectively take advantage of available opportunities.
@@ -54,7 +57,9 @@ Implementing secure and decentralized identity and reputation systems to build t
 Decentralized Exchanges
 
 Enabling peer-to-peer trading without centralized control, increasing liquidity and accessibility for members.
+
 Conclusion
+
 Orion Inclusion Cooperative aims to create a more inclusive and sustainable future by leveraging the power of Web3 technology. By providing a decentralized platform for collaboration, resource sharing, and transparent governance, we empower members to actively participate in the cooperative and benefit from its success.
 
 Join us on this journey to create a fairer, more transparent, and inclusive cooperative ecosystem.
@@ -64,6 +69,7 @@ To support the development and operations of Orion Inclusion Cooperative, you ca
 
 Ethereum (ETH): 0xB58e6b6CE45967552B008C80ef8362e222F5e895
 Bitcoin (BTC): bc1qulh9v0thxu9em6p6q4qjujsyklyrklcetmptqf
+
 Funds received will be used for:
 
 Platform development
